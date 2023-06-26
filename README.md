@@ -54,14 +54,3 @@ A Computer Sciences college student always ready to take on new challenges
 
 <h3 align="left">Software:</h3>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-
-<br>
-<h2> Interesting Data</h2>
-
-<p>(This one is obviously a lie, change all C by C++ and here we go)</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgaouette&show_icons=true&locale=en&layout=compact" alt="jgaouette" /></p>
-
-[![JGaouette's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgaouette)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jgaouette&" alt="jgaouette" /></p>
